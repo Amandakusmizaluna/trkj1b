@@ -3,3 +3,6 @@ MK : Introduction to Information Technology
 2. Komponen Komputer
 3. Sistem Bilangan
 4. Konversi Bilangan 
+5. Setting halaman
+6. daftar Isi
+7. Mail Merge
